@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Greetings
+title: A Preface
 ---
 
 Greetings, 
-
 The first time I heard about Bitcoin was in 2010; while it intrigued me, I was just 18 years old, purusuing an ambition to enter the world of finance as a Wall Street trader at the big banks. I was not ready for the new wave: there was much training I had to undergo before I could help the impact that cryptocurrency and the method: blockchain is now making in the world. 
 
 Years later, now a seasoned trader and a medior level programmer, I had rediscovered Bitcoin and the revolutionary digital front that by proxy of the internet elevates the lives of so many people everyday. I purchased my first Bitcoins to use in September 2013 and the true discovery was that of the private key. Cryptography is the muscles of the internet. 
