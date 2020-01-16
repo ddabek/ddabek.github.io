@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is the page of Daniel Dabek: Software Developer, Diplomat, Entrepreneur
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[daniel@safex.io](mailto:daniel@safex.io)
